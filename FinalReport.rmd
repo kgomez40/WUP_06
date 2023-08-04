@@ -45,7 +45,13 @@ I’m going to be using the cat cat helper file, like numerical,graphical,and in
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
+```{r}
+barchartGC(~race + cappun,data=mydata)
+barchartGC(~race + cappun,data=mydata, type="percent")
 
+```
+
+The plot shows that there are about 1450 white people who are in favor for capital punishment and about 550 White people who are opposed capital punishment and about 250 black people are for capital punishment and about 350 black people are against capital punishment or we could say 65% of white people are for it and 35% of white people who are against it, about 45% of black people are for capital punishment and about 55% of black people are against capital punishment. The white people are for it 2 to 1 and for black people it is 5 to 4. 
 
 ## Now with The Most data (fewer variables gives more data points)
 
