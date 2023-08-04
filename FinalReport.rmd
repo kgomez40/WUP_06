@@ -95,3 +95,5 @@ Each group has a different opinion according to both fisher test it shows us not
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+In this branch we had more data and had less variables because of that all of the data that we got were all different but in the number 2 branch we had less data but more variables so we had a better chance of getting something that was similar.
