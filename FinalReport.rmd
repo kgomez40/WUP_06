@@ -61,8 +61,13 @@ The plot shows that there are about 1450 white people who are in favor for capit
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
 
-
+The white people are 65% for it and 35% against it, Black people are 43% for it and 57% against it, for other people there are 55% for it and 45% against it. The biggest split is with the white and the black.
 
 ## Now with More data
 
