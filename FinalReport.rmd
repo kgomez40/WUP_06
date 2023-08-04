@@ -37,6 +37,8 @@ mutate(across(where(is.character), as.factor))
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
 
+I’m going to be using the cat cat helper file, like numerical,graphical,and inferential, so I can figure out if capital punishment depends on race.
+
 ## Descriptive Results
 
 ### Graphical Descriptive Results
